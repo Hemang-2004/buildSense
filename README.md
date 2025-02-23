@@ -185,5 +185,7 @@ This project is licensed under the MIT License.
 
 ---
 
-### **9️⃣ Contact**
-For any queries, contact **your.email@example.com** or raise an issue.
+### **9️⃣ Contributors**
+- [varnit-mittal](https://github.com/varnit-mittal)
+- [ap5967ap](https://github.com/ap5967ap)
+- [hemang-2004](https://github.com/hemang-2004/)
